@@ -12,6 +12,7 @@ integrate this skill into electronic devices.
 
 ## Let's Connect! 🔗
 · linkedIn -> [https://www.linkedin.com/in/kocakemre0/]
+
 · e-Mail -> [ekocak2005@gmail.com]
 
 · 🟢 Feel free to drop me a message if you have any questions or just want to chat about tech and innovation!

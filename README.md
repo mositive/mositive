@@ -1,16 +1,15 @@
-## Hi there 👋
+## Welcome to the my GitHub Profile! 👋
 
-<!--
-**mositive/mositive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+· I'm Emre, my goal is to improve myself in mobile development to a professional level and to be able to
+integrate this skill into electronic devices.
 
-Here are some ideas to get you started:
+## About Myself ⓘ
+· 🤓 -> Currently Mechatronics Engineering Student at Izmir Katip Celebi University
+· 💙 -> Mainly developing Android and iOS apps with Flutter
+· 🤝 -> Can easily adapt to team work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Let's Connect! 🔗
+· linkedIn -> [https://www.linkedin.com/in/kocakemre0/]
+· e-Mail -> [ekocak2005@gmail.com]
+
+· 🟢 Feel free to drop me a message if you have any questions or just want to chat about tech and innovation!

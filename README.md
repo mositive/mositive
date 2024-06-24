@@ -5,7 +5,9 @@ integrate this skill into electronic devices.
 
 ## About Myself ⓘ
 · 🤓 -> Currently Mechatronics Engineering Student at Izmir Katip Celebi University
+
 · 💙 -> Mainly developing Android and iOS apps with Flutter
+
 · 🤝 -> Can easily adapt to team work
 
 ## Let's Connect! 🔗
